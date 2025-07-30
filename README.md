@@ -1,2 +1,2 @@
 # comserver
-Comando per la gestione dello spegnimento e dell'accensione del server.
+Command for managing the shutdown and startup of the server.
